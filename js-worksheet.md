@@ -1,9 +1,9 @@
-####Name:
+####Name:Nia Davis
 ####ScriptEd
 ####Topic: JavaScript
 
-* Explain what a function is. Give an example.
-* Explain what a parameter is. Give an example.
+* Explain what a function is. Give an example. A function is a code that performs a task.
+* Explain what a parameter is. Give an example. A parameter is a variable to pass in a function. For example, it is part of local scope.
 * When we want to look up what a word means, we go to a dictionary. Similarly, when we want to look up what a standard JavaScript function does, we look at _______________.
 * In the following piece of code, what variable(s) are in scope at Point A, Point B, and 
 Point C?
@@ -22,7 +22,7 @@ function rocks() {
 }
 
 // Point C
-```
+
 * What does the following code print?
 
 ```
